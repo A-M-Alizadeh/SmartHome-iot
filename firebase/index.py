@@ -1,5 +1,4 @@
 # env SMARTHOME_FB_CREDENTIALS
-# echo 'export SMARTHOME_FB_CREDENTIALS=/Users/graybook/Documents/Projects/Polito/Secure/smart-home-22113-firebase-adminsdk-1zqx6-9859310965.json' >> ~/.zshenv
 
 import firebase_admin
 from firebase_admin import db
